@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BlocFlix
+title: Bloc Jams
 thumbnail-path: "img/blocflix.png"
 short-description: BlocJams is an online music player that allows you to stream music.
 
