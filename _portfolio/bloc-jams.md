@@ -7,7 +7,7 @@ short-description: BlocJams is an online music player that allows you to stream 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocflix.png)
+![]({{ site.baseurl }}/img/bloc_jams_logo.png)
 
 ## Explanation
 
